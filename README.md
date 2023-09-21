@@ -1,0 +1,1 @@
+**Link do diagrama de caso de uso:** [https://app.diagrams.net/#Hdouglaslima-ubec%2Fengenharia-software%2Fmain%2FDiagrama%20sem%20nome.drawio](https://app.diagrams.net/#Hdouglaslima-ubec%2Fengenharia-software%2Fmain%2FDiagrama%20sem%20nome.drawio)
